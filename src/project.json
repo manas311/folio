@@ -1,0 +1,122 @@
+[
+    {
+        "id":1,
+        "title": "Blog Site",
+        "img": "/static/projects/blog.png",
+        "description": "Made a Blog Site with Customizable Components that can be filled using Direct Data or via an API call.",
+        "gitlink": "https://github.com/manas311",
+        "demolink": "https://blog-site-311.netlify.app/"
+    },
+    {
+        "id":2,
+        "title": "Calculator",
+        "img": "./assets/projects/calculator.png",
+        "description": "Made a calculator using HTML, CSS and vanilla javascript to explore and apply the concepts of DOM manipulation.",
+        "gitlink": "https://github.com/manas311/calculator",
+        "demolink": "https://manas311.github.io/calculator/"
+    },
+    {
+        "id":3,
+        "title": "Discord Landing Page",
+        "img": "./assets/projects/discord.png",
+        "description": "I have recreated the Landing Page of the famous site Discord to further check my skills in design and placement.",
+        "gitlink": "https://github.com/manas311/discord",
+        "demolink": "https://manas311.github.io/discord/"
+    },
+    {
+        "id":4,
+        "title": "Stone Paper Scissors Game",
+        "img": "./assets/projects/game.png",
+        "description": "Recreated the famous game of Rock Paper Scisors agains the machine with added characters for choices.",
+        "gitlink": "https://github.com/manas311/game",
+        "demolink": "https://manas311.github.io/game/"
+    },
+    {
+        "id":5,
+        "title": "Internshala Landing Page",
+        "img": "./assets/projects/internshala.png",
+        "description": "Made the Landing site of Internshala to further test my skills and to expand my understandings of HTML and CSS.",
+        "gitlink": "https://github.com/manas311/internshala",
+        "demolink": "https://manas311.github.io/internshala/"
+    },
+    {
+        "id":6,
+        "title": "Picnic Site",
+        "img": "./assets/projects/landingPage.png",
+        "description": "Made a general purpose Responsive Landing Page that can be moulded into any form required.",
+        "gitlink": "https://github.com/manas311/responsive",
+        "demolink": "https://manas311.github.io/responsive/"
+    },
+    {
+        "id":7,
+        "title": "Mix-or-Match Game",
+        "img": "./assets/projects/mixOrMatch.png",
+        "description": "Made a game based on the game, Purble Place but with a haloween twist.",
+        "gitlink": "https://github.com/manas311/mixormatch",
+        "demolink": "https://manas311.github.io/mixormatch/"
+    },
+    {
+        "id":8,
+        "title": "Music Player",
+        "img": "./assets/projects/musicPlayer.png",
+        "description": "Made a Music Player App with a limited library and a nice UI. Audio files are currently stored offline but is to be upgraded to online version.",
+        "gitlink": "https://github.com/manas311/music",
+        "demolink": "https://manas311.github.io/music/"
+    },
+    {
+        "id":9,
+        "title": "Piano Player",
+        "img": "./assets/projects/piano.png",
+        "description": "Made the UI seem like a piano that is played using the DOM manipulation turning the keyboard into a Piano.",
+        "gitlink": "https://github.com/manas311/piano",
+        "demolink": "https://manas311.github.io/piano/"
+    },
+    {
+        "id":10,
+        "title": "Student Display App",
+        "img": "./assets/projects/student.png",
+        "description": "Made a React app that uses reusable card components to display student data in a neat Tabular Manner.",
+        "gitlink": "https://github.com/manas311",
+        "demolink": "https://student-display.netlify.app/"
+    },
+    {
+        "id":11,
+        "title": "TinDog site",
+        "img": "./assets/projects/tindog.png",
+        "description": "Made a copy of the site Tinder but for the furry friends. In the words of the client it's simply *WOOF*.",
+        "gitlink": "https://github.com/manas311/tindog",
+        "demolink": "https://manas311.github.io/tindog/"
+    },
+    {
+        "id":12,
+        "title": "To-Do app",
+        "img": "./assets/projects/todobasic.png",
+        "description": "Made a to-do app using basic web development tools, it's a reminder to achieve the goals you set for yourself and to become better everyday.",
+        "gitlink": "https://github.com/manas311/toll1",
+        "demolink": "https://manas311.github.io/toll1/"
+    },
+    {
+        "id":13,
+        "title": "Goals App",
+        "img": "./assets/projects/todoreact.png",
+        "description": "Made using React, this site will help achieve all your goals and achievements with a daily reminder to work for them.",
+        "gitlink": "https://github.com/manas311",
+        "demolink": "https://redux-todo-311.netlify.app/"
+    },
+    {
+        "id":14,
+        "title": "Weather App",
+        "img": "./assets/projects/weather.png",
+        "description": "Made a basic Weather App that fetches data from a free API and displays data for the users location.",
+        "gitlink": "https://github.com/manas311",
+        "demolink": "https://weather-app-311.netlify.app/"
+    },
+    {
+        "id":15,
+        "title": "Old Portfolio Design",
+        "img": "./assets/projects/website.png",
+        "description": "It's my old portfolio design to show myself how far I have come and how far I have to go.",
+        "gitlink": "https://github.com/manas311/portfolio",
+        "demolink": "https://manas311.github.io/portfolio/"
+    }
+]
