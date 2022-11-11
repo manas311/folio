@@ -13,7 +13,7 @@ const About = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-            <img src='/static/me-about.jpg' alt="about me pic" />
+            <img src='/static/me-about.png' alt="about me pic" />
           </div>
         </div>
         <div className="about__content">
@@ -37,7 +37,11 @@ const About = () => {
             </article>
           </div>
 
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium alias, sunt neque tempora reiciendis deleniti qui. Velit suscipit delectus totam quidem. Temporibus fugit iste nemo sunt ipsa atque ipsam? Quibusdam iste odit, quos deserunt cupiditate obcaecati animi numquam earum rerum?</p>
+          <p>Hi, My name is Manas Tewari, Engineer by education and Web Developer by profession. 
+            I am an aspiring full stack web developer, living in Uttarakhand, India. 
+            I am hard working and passionate towards my work.
+            I have done my Engineering (Bachelor of Technology) from Birla Institute of Applied Sciences
+             in the branch Computer Science Engineering (CSE)</p>
         
           <a href="#contact" className='btn btn-primary'>Let's Talk!</a>
         </div>

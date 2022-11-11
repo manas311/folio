@@ -40,7 +40,7 @@ header{
 /* ================ ME IMAGE ===============*/
 .me{
     background: linear-gradient(var(--color-primary), transparent);
-    width: 22rem;
+    width: 25rem;
     height: 30rem;
     position: absolute;
     left: calc(50% - 11rem);
@@ -53,11 +53,11 @@ header{
 /* ================ SCROLL BTN ===============*/
 .scroll__down{
     position: absolute;
-    right: -2.3rem;
+    right: -2.5rem;
     bottom: 5rem;
     transform: rotate(90deg);
     font-weight: 300;
-    font-size: 0.9rem;
+    font-size: 1.1rem;
 }
 
 /* ==================== MEDIA QUERIES (MEDIUM DEVICES) ========================*/
